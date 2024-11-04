@@ -4,6 +4,8 @@
 
 This interactive Power BI dashboard presents a comprehensive analysis of the global data profession landscape, based on a survey of 630 data professionals. The project provides valuable insights into salary trends, career progression, work satisfaction, and technical preferences across different data-related roles worldwide.
 
+![Data Career Insights Dashboard](screenshot.png)
+
 ## 🎯 Key Features
 
 - Demographic analysis of data professionals
