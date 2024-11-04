@@ -1,10 +1,8 @@
-# Data Career Insights Dashboard: Global Survey Analysis
+# Data Career Insights Dashboard: Global Survey Analysis 2024
 
 ## 📊 Project Overview
 
 This interactive Power BI dashboard presents a comprehensive analysis of the global data profession landscape, based on a survey of 630 data professionals. The project provides valuable insights into salary trends, career progression, work satisfaction, and technical preferences across different data-related roles worldwide.
-
-![Data Career Insights Dashboard](screenshot.png)
 
 ## 🎯 Key Features
 
@@ -109,4 +107,16 @@ This dashboard serves as a valuable resource for:
 
 ---
 
-_Data based on a comprehensive survey of 630 data professionals across multiple countries and roles._
+## 📝 Acknowledgments
+
+- The dataset used in this project was sourced from publicly available data professional surveys online and is not my original data
+- This project was inspired by various data visualization projects and dashboards in the data analytics community
+- Special thanks to the data professional community for sharing insights and best practices
+
+## 🔐 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+_Data based on a comprehensive survey of 630 data professionals across multiple countries and roles. This is an educational project intended for learning and demonstration purposes._
